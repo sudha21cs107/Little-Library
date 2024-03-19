@@ -1,0 +1,15 @@
+p{
+    line-height: 50px;
+    font-size: 150%;
+}
+h2{
+    font-size: 200%;
+    font-weight: 100;
+   
+}
+.str{
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    background-color: rgb(176, 193, 224);
+}
